@@ -1,0 +1,17 @@
+Hi,
+For Starting new game 
+	click on "Start new game" button
+For continuing old game 
+	click on "Continue" button
+For seeing the fastest scores 
+	click on "Best scores" button
+For seeing the completed version 
+	click on "?" sign.
+For winning the game you need to situate all
+numbers in ascending order(first level) or 
+all pieces of picture in their currect places. 
+For shifting a white block can be used w,a,s,d
+keys, or buy clicking on that block which you
+wand to move, you can move only neighbor
+blocks of white block. 
+ 

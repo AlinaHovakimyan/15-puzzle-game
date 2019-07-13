@@ -1,0 +1,4 @@
+3
+C:/Users/ahovakim/Documents/lessons/15puzzle-master/pictures/2/bear.jpeg
+C:/Users/ahovakim/Documents/lessons/15puzzle-master/pictures/2/christmas.jpg
+C:/Users/ahovakim/Documents/lessons/15puzzle-master/pictures/2/elf.jpeg
